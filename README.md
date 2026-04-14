@@ -35,7 +35,7 @@ After recording, the system displays:
 1. Open MATLAB  
 2. Set project folder as Current Directory  
 3. Run:
-4. 
+   
 emotion_recognition
 
 Speak for a few seconds when prompted 🎤
